@@ -67,7 +67,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/satishnaikawadi2011/react-nest-video-chat
+git clone https://github.com/swaroop280201/ChitChatApp
 ```
 
 # Usage (run this app on your machine)
