@@ -36,7 +36,7 @@
 
 
 ## About The Project
-This is the simple application in which just by sharing code you can video chat with your friend instantly. You can  use it live [here](https://sn-chitchat.netlify.app/)
+This is the simple application in which just by sharing code you can video chat with your friend instantly. You can  use it live [here](https://react-chitchatapp.netlify.app/)
 
 ### Built With
 
